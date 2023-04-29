@@ -6,4 +6,7 @@ The dataset contains record of fitness tracker in Indian market. It consist of d
 - Information on top 5 brands
 - Corellations between the prices and product specification and ratings
 - Different types of fitness trackers,their price segments for different users
+ Tool Used; Power BI
+## Steps taken to achieving the insight
+ ![](April_challenges.pdf)
 

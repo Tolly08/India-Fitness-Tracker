@@ -8,5 +8,8 @@ The dataset contains record of fitness tracker in Indian market. It consist of d
 - Different types of fitness trackers,their price segments for different users
  Tool Used; Power BI
 ## Steps taken to achieving the insight
- ![](april_challenges.pdf)
+ - Used find and replace to change the blank cells to 0
+ - Used Conditional formatting to create extra column.
+ - Visualize and story telling
+ - 
 

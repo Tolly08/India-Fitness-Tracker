@@ -1,4 +1,5 @@
 # India-Fitness-Tracker
+![](fitnesstracker
 An overview of fitness tracker in the Indian market
 The dataset contains record of fitness tracker in Indian market. It consist of different products from various brands with their specifications, ratings and reviews. The dataset was collected from flipkart and amazon using web scraping techniqu and made available by astrato. 
 # Objectives
@@ -11,5 +12,7 @@ The dataset contains record of fitness tracker in Indian market. It consist of d
  - Used find and replace to change the blank cells to 0
  - Used Conditional formatting to create extra column.
  - Visualize and story telling
- - 
+ 
+ ## Insight generated
+ -
 

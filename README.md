@@ -17,10 +17,8 @@ The dataset contains record of fitness tracker in Indian market. It consist of d
  - Less weight have a significant effect on the price and while we might consider long hours battery, some brand have solar panels in them making it more expensive than long hours battery even though 15-20 hrs have the highest price which might also be considered.
  - Screen size is one other product specification affecting price. Smaller screen tends to have higher  price.
  - Low end price have the highest users whlie the high end (>80,000 rupees) have the least users.  
- - The most expensive model is the Fenix 7X  Sapphire , with up  to 28/37 days solar and buit in flashlight. 0.1g of weight 
-Brand - Garmin, Price - 139,990. User ratings; 6k 4.7.
--The least expensive model is the Watch 2 Sports, 1.69" Bright screen with 110+ sport modes.
-Brand -  Dizo
+ - The most expensive model is the Fenix 7X Sapphire, with up to 28/37 days solar and buit in flashlight, 0.1g of weight, Brand- Garmin, Price - 139,990, User ratings; 6k 4.7.
+ - The least expensive model is the Watch 2 Sports, 1.69" Bright screen with 110+ sport modes, Brand - Dizo
 Features;  Square shape, Blue Strap colour, Silicon strap, touch screen, 22days battery life, bluetooth, 20-35 g of weight.
 Price; 1,990, User ratings; 62,924 ; 4.2 
 ![](fitnesstracker2.jpg)
